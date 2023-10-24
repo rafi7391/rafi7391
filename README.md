@@ -11,7 +11,7 @@
 - 👨‍💻 All of my **Contributions** and **Projects** are available at my *Portfolio*.
   **Please Do Check it out** [https://rafi7391.github.io/rafi-portfolio/](https://rafi7391.github.io/rafi-portfolio/)
 
-- 📫 How to reach me **rafi37230@gmail.com**
+- 📫 How to reach me **https://linktr.ee/rafi7391**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafi7391&show_icons=true&locale=en&layout=compact" alt="rafi7391" /></p>
 
