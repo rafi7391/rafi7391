@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shaikrafi03" target="blank"><img align="center" src="https://imgs.search.brave.com/50UHMRxztKA1c72flwwtrDlw9LKT1DjyEa2N92Uas8U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1M2Uu/cG5n" alt="shaikrafi03" height="60" width="120" /></a>
-<a href="https://linkedin.com/in/shaik-rafi-87063a211" target="blank"><img align="center" src="https://imgs.search.brave.com/e0BJyad5CVGVQMycQOt9e2nRsP4zj9ddy1z8lvKfeK4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzAxLzA5LzUw/LzM2MF9GXzQwMTA5/NTA0N19aQldZaURy/WkM5WUM4c29id0VI/bFRWRHV1WkNVOWJB/Wi5qcGc" alt="shaik-rafi-87063a211" height="250" width="300" /></a>
+<a href="https://twitter.com/shaikrafi03" target="blank"><img align="center" src="https://imgs.search.brave.com/50UHMRxztKA1c72flwwtrDlw9LKT1DjyEa2N92Uas8U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1M2Uu/cG5n" alt="shaikrafi03" height="60" width="100" /></a>
+<a href="https://linkedin.com/in/shaik-rafi-87063a211" target="blank"><img align="center" src="https://imgs.search.brave.com/VkgvXweWt7yr4vgL4gG2kB5xCkkDgwOy5u77gRw62MY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2NpcmNsZS1s/aW5rZWRpbi01MTIu/cG5n" alt="shaik-rafi-87063a211" height="250" width="300" /></a>
 <a href="https://instagram.com/rafi_khan.shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi_khan.shaik" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rafi7391" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafi7391" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rafi37230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafi37230" height="30" width="40" /></a>
