@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/shaikrafi03" target="blank"><img src="https://img.shields.io/twitter/follow/shaikrafi03?logo=twitter&style=for-the-badge" alt="shaikrafi03" /></a> </p>
 
-- 🌱 I’m currently Expertising my Skills in **JAVA DS&A**
+- 🌱 I’m currently Expertising my Skills in **Java DS&A**
 
-- 👨‍💻 All of my projects are available at [https://rafi7391.github.io/rafi-portfolio/](https://rafi7391.github.io/rafi-portfolio/)
+- 👨‍💻 All of my **Contributions** and **Projects** are available at my *Portfolio*.
+  **Please Do Check it out** [https://rafi7391.github.io/rafi-portfolio/](https://rafi7391.github.io/rafi-portfolio/)
 
 - 📫 How to reach me **rafi37230@gmail.com**
 
