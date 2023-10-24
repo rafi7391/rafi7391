@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shaikrafi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaikrafi03" height="30" width="40" /></a>
+<a href="https://twitter.com/shaikrafi03" target="blank"><img align="center" src="https://imgs.search.brave.com/50UHMRxztKA1c72flwwtrDlw9LKT1DjyEa2N92Uas8U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1M2Uu/cG5n" alt="shaikrafi03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaik-rafi-87063a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-rafi-87063a211" height="30" width="40" /></a>
 <a href="https://instagram.com/rafi_khan.shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi_khan.shaik" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rafi7391" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafi7391" height="30" width="40" /></a>
