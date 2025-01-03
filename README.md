@@ -6,12 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/shaikrafi03" target="blank"><img src="https://img.shields.io/twitter/follow/shaikrafi03?logo=twitter&style=for-the-badge" alt="shaikrafi03" /></a> </p>
 
-- 🌱 I’m currently Expertising my Skills in Java DS&A
+- 🌱 I am a competitive programmer with a passion for developing web content in the most efficient way possible.
 
-- 👨‍💻 All of my Contributions and Projects are available at my *Portfolio*.
-  Please Do Check it out [https://rafi7391.github.io/rafi-portfolio/](https://rafi7391.github.io/rafi-portfolio/)
 
-- 📫 How to reach me https://linktr.ee/rafi7391
+- 📫 Thank you for visiting my profile, and I look forward to collaborating on exciting web projects and advancing the boundaries!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,7 +27,7 @@
 <!-- <a href="https://www.hackerrank.com/rafi37230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafi37230" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/rafi7391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rafi7391" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rafi7791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafi7391" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rafi37230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rafi37230" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/rafi37230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rafi37230" height="30" width="40" /></a> -->
 <!-- <a href="https://discord.gg/5C7FNWw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5C7FNWw7" height="30" width="40" /></a>
 </p>
  -->
