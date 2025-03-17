@@ -11,9 +11,6 @@
 
 - 📫 Thank you for visiting my profile, and I look forward to collaborating on exciting web projects and advancing the boundaries!
 
-- 📫. please visit my portfolio for more details https://rafi7391.github.io/rafi-portfolio/
-
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
